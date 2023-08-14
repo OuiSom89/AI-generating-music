@@ -15,12 +15,16 @@ Otherwise, go to
 IA\data set\get data set.py
 ```
 
-changed the name of artist at the launch of function line 69
-
+changed the name of artist at the launch of function line 69.
 ```python
-  GetTiny("Ed-sheeran")
+GetTiny("Ed-sheeran")
 ```
 
+The best is to add a dozen artist, for this copied paste the function and mixing a new artist.
+Before launching this script, make sure that his is the right artist by checking on [genius](https://genius.com)
+```json
+https://genius.com/{artist}
+```
 
 - 3 You have these hyperparameters,
  
