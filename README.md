@@ -15,7 +15,7 @@ Otherwise, go to
 IA\data set\get data set.py
 ```
 
- - changed the name of artist at the launch of function line 69
+ -- changed the name of artist at the launch of function line 69
 
 
 - 2 You have these hyperparameters,
