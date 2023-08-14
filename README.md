@@ -10,7 +10,7 @@ for starters, if you want to make an AI that generates something other than text
 IA\data set\all_artist_data_artist.txt
 ```
 
-Otherwise, go to f
+Otherwise, go to
 ```bash
 IA\data set\get data set.py
 ```
@@ -25,6 +25,9 @@ Before launching this script, make sure that his is the right artist by checking
 ```json
 https://genius.com/{artist}
 ```
+
+now, you can execute the file,
+ps : don't debug and execute, juste execute.
 
 - 3 You have these hyperparameters,
  
