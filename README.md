@@ -6,13 +6,14 @@ I created an AI generator based on a script developed by [Andrej Karpathy](https
 
 You have these options,
 
-|batch_size|16
-|block_size|32
-|max_iters|1000000
-|eval_interval|10000
-|learning_rate|0.001
-|eval_iters|200
-|n_embd|64
-|n_head|4
-|n_layer|4
-|dropout|0.0
+| batch_size | 16
+| --- | --- |
+| block_size | 32 |
+| max_iters | 1000000 |
+| eval_interval | 10000 |
+| learning_rate | 0.001 |
+| eval_iters | 200 |
+| n_embd | 64 |
+| n_head | 4 |
+| n_layer | 4 |
+| dropout | 0.0 |
