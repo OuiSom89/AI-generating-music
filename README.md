@@ -3,7 +3,7 @@
 I created an AI generator based on a script developed by [Andrej Karpathy](https://github.com/karpathy) on [this code](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing).
 
 ## How does it work?
-- 1 Installing a text database
+- 2 Installing a text database
 
 for starters, if you want to make an AI that generates something other than text, you should paste the text here,
 ```bash
@@ -15,10 +15,15 @@ Otherwise, go to
 IA\data set\get data set.py
 ```
 
- -- changed the name of artist at the launch of function line 69
+changed the name of artist at the launch of function line 69
+<pre>
+```python
+  GetTiny("Ed-sheeran")
+```
+</pre>
 
 
-- 2 You have these hyperparameters,
+- 3 You have these hyperparameters,
  
  | hyperparameter | value | explanation
  | --- | --- | --- |
