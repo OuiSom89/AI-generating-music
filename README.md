@@ -6,7 +6,7 @@ I created an AI generator based on a script developed by [Andrej Karpathy](https
 
 You have these hyperparameters,
 
-| hyperparameter | value
+| hyperparameter | value | explanation
 | --- | --- |
 | batch_size | 16 | Batch size (number of examples) used when training the AI at each iteration.
 | block_size | 32 | The size of the block used to split data into sequences or batches. | 
