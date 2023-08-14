@@ -1,2 +1,2 @@
-# AI-generating-music
+## AI-generating-music
 AI generator
