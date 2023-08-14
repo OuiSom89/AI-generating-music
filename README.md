@@ -3,6 +3,18 @@
 I created an AI generator based on a script developed by [Andrej Karpathy](https://github.com/karpathy) on [this code](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing).
 
 ## How does it work?
+- 1 Installing a text database
+
+for starters, if you want to make an AI that generates something other than text, you should paste the text here,
+```bash
+IA\data set\all_artist_data_artist.txt
+```
+
+Otherwise, go to 
+```bash
+IA\data set\get data set.py
+```
+
 - 2 You have these hyperparameters,
  
  | hyperparameter | value | explanation
@@ -18,4 +30,4 @@ I created an AI generator based on a script developed by [Andrej Karpathy](https
  | n_layer | 4 | Total number of layers in the AI model. | 
  | dropout | 0.0 | Probability of deactivation of neurons during training, where 0 means no dropout. | 
 
- You can change these hyperparameters in the hyperparameters.json file.
+You can change these hyperparameters in the IA\IA script\hyperparameters.json file.
