@@ -8,7 +8,7 @@ You have these options,
 
 | batch_size | 16
 | --- | --- |
-| block_size | 32 |
+| block_size | 32 
 | max_iters | 1000000 |
 | eval_interval | 10000 |
 | learning_rate | 0.001 |
