@@ -16,11 +16,10 @@ IA\data set\get data set.py
 ```
 
 changed the name of artist at the launch of function line 69
-<pre>
+
 ```python
   GetTiny("Ed-sheeran")
 ```
-</pre>
 
 
 - 3 You have these hyperparameters,
