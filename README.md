@@ -10,7 +10,7 @@ for starters, if you want to make an AI that generates something other than text
 IA\data set\all_artist_data_artist.txt
 ```
 
-Otherwise, go to 
+Otherwise, go to f
 ```bash
 IA\data set\get data set.py
 ```
