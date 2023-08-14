@@ -4,11 +4,12 @@ I created an AI generator based on a script developed by [Andrej Karpathy](https
 
 ## How does it work?
 
-You have these options,
+You have these hyperparameters,
 
-| batch_size | 16
+| hyperparameter | value
 | --- | --- |
-| block_size | 32 
+| batch_size | 16
+| block_size | 32 |
 | max_iters | 1000000 |
 | eval_interval | 10000 |
 | learning_rate | 0.001 |
