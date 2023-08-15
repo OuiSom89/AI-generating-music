@@ -56,5 +56,5 @@ You can now run the script
 IA\IA script\generator txt.py
 ```
 You have 2 parameter entered the console for each generation:
- 1e the text that the generator will take to start and have a consistency with (you can leave blank).
- 2nd entered the number of characters you want in the text.
+  1e the text that the generator will take to start and have a consistency with (you can leave blank).
+  2nd entered the number of characters you want in the text.
