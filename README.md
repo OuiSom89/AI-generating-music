@@ -3,6 +3,13 @@
 I created an AI generator based on a script developed by [Andrej Karpathy](https://github.com/karpathy) on [this code](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing).
 
 ## How does it work?
+- 1 Installing a folder
+
+Execute this command in cmd.
+```bash
+git clone https://github.com/axiomxdev/AI-generating-music.git
+```
+
 - 2 Installing a text database
 
 for starters, if you want to make an AI that generates something other than text, you should paste the text here,
